@@ -14,4 +14,5 @@ I'm am perfectionist person, I like and want things to work correctly as planned
 
 All my achievements during academic time consist on:
 - A concurrent lexer scanner for Python codes made in Go
+[lexer sintetico](https://github.com/Marcelo91216/Implementacion-reto-con-go-lexer-concurrente.git)
 - A desktop aplication made in Python consisting in a inventory of strips
