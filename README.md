@@ -3,8 +3,11 @@
 
 Software engineer and programmer from Tecnológico de Monterrey.
 
-Mis valores se componen de:
-- Unión
-- Calidad
-- Esfuerzo
-- Persistencia
+My values consist on:
+- Team work
+- Quality
+- Endeavor
+- Persistance
+
+All my achievements during academic time consist on:
+- A sintaxis lexer
