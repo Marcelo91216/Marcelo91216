@@ -15,10 +15,13 @@ My values consist on:
 
 ## Interesting topics for me
 
+
 ## My Achievements
 All my achievements during academic time consist on:
-- A [Concurrent Lexer Scanner](https://github.com/Marcelo91216/Implementacion-reto-con-go-lexer-concurrente.git) for Python codes made in Go
+- A [Concurrent Lexer Scanner](https://github.com/Marcelo91216/Implementacion-reto-con-go-lexer-concurrente.git) for Python codes made in Go.
 
-- A [desktop aplication for GuillCast company](https://github.com/Marcelo91216/ProgramaDeGuillCast.git)  made in Python consisting in a inventory of strips
+- A [desktop aplication for GuillCast company](https://github.com/Marcelo91216/ProgramaDeGuillCast.git)  made in Python consisting in a inventory of strips.
+
+- A [plataformer videogame](https://marcelo91216.itch.io/little-man-adventure-web-version). made in the game engine Unity.
 
 ## My gained skills
