@@ -9,7 +9,7 @@ My values consist on:
 - Endeavor
 - Persistance
 
-Como me identifico yo.
+I'm am perfectionist person, I like and want things to work correctly as planned, and is something that I like to demostrate with my own proyects that I worked on my school here in Mexico. 
 
 All my achievements during academic time consist on:
 - A concurrent lexer scanner for Python codes made in Go
