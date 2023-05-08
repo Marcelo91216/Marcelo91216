@@ -2,7 +2,7 @@
 ### Marcelo91216
 
 Software engineer and programmer from Tecnológico de Monterrey.
-![Mi foto de perfil](./img/mi_foto.PNG)
+![My profile foto](./img/mi_foto.PNG){ancho=300px}
 
 My values consist on:
 - Team work
