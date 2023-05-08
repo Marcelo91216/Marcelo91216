@@ -9,6 +9,8 @@ My values consist on:
 - Endeavor
 - Persistance
 
+Como me identifico yo.
+
 All my achievements during academic time consist on:
 - A concurrent lexer scanner for Python codes made in Go
 - A desktop aplication made in Python consisting in a inventory of strips
