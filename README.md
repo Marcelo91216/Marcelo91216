@@ -30,7 +30,7 @@ The ideas that I have been thinking to start new projects are:
 
 ## My Achievements
 All my achievements during academic time consist on:
-- A [concurrent Lexer Scanner](https://github.com/Marcelo91216/Implementacion-reto-con-go-lexer-concurrente.git) for Python codes made in Go. It converts the Python code from input and creates an HTML5 and CSS3 code that highlights the sintax of a Python code, in a concurrent way that each input is processed separately.
+- A [concurrent lexer scanner](https://github.com/Marcelo91216/Implementacion-reto-con-go-lexer-concurrente.git) for Python codes made in Go. It converts the Python code from input and creates an HTML5 and CSS3 code that highlights the sintax of a Python code, in a concurrent way that each input is processed separately.
 
 - A [desktop aplication for GuillCast company](https://github.com/Marcelo91216/ProgramaDeGuillCast.git) made in Python consisting in a inventory of strips, this software was made to help the GuillCast company director to manage in a better way the count of strips they produce by automatizing this task using Python with the library [Tkinter](https://docs.python.org/es/3/library/tkinter.html) and [Openpyxl](https://openpyxl.readthedocs.io/en/stable/).
 
@@ -41,7 +41,7 @@ All my achievements during academic time consist on:
 
 - A [management program made for the Wellness Center](https://github.com/5100-chap/Wellness-SRAD.git), a place of my own school for sport clases. This software was created with the purpose of helping automatizing some tasks that the administrators were tired by doing manually.
 
-- A [quality testing program](https://github.com/Marcelo91216/Wellness-srad-calidad.git) made with the framework Selenium in the IDE Aqua JetBrains, consisting in quality tests to ensure the correct working for a software, in this case this was proven on a web page made for the Wellness Center here in Tecnológico de Monterrey.
+  - A [quality testing program](https://github.com/Marcelo91216/Wellness-srad-calidad.git) made with the framework Selenium in the IDE Aqua JetBrains, consisting in quality tests to ensure the correct working for a software, in this case this was proven on a web page made for the Wellness Center here in Tecnológico de Monterrey.
 
 - A [software to help bring clases to external people from Tecnológico de Monterrey](https://github.com/ongorio/TC2007Bserver.git), this was made in a web page using Node JS with Sequelize to manage better the database instructions, also was made a Front-End made in Swift exclusive for iOS mobile, but my principal effort was in the server side.
 
@@ -105,7 +105,7 @@ I can point some of these lessons acquired:
   - Rust
 
 ## Cool Marcelo Facts
-* My favorite languages in a top are:
+* My favorite languages in a top are: 
   * C++
   * Rust
   * Typescript
@@ -114,4 +114,4 @@ I can point some of these lessons acquired:
   * Go
   * C#
 * Before entering the university, I didn't know any about this topics, but I was so curious about how computers work and understand them.
-* 
+* My first program I have ever made in my life is a little game of movement made in Scratch, a little software to program animations and games with blocks.  <img src="./img/scratch.png" width="35px"></img>
