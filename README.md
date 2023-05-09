@@ -67,4 +67,12 @@ I can point some of these lessons acquired:
 - Software Engineer
   - Standard like IEEEs 
   - Agile methodologies to make software
-  - 
+  - Use the software Jira to manage every sprint
+  - A calendar for all activities in a project
+  - Creation of functional requirements
+  - Designing of user histories
+  - Documentation of quality, SRS, SDD, calendar and WBS
+- Databases
+  - SQL
+  - SQL Server
+  - POO diagrams
