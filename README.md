@@ -3,7 +3,7 @@
 
 ## Who I am
 Software engineer and programmer from Tecnológico de Monterrey.
-![My profile foto](./img/mi_foto.PNG){width=50% height=50%}
+![My profile foto](./img/mi_foto.png){width=50% height=50%}
 I'm am perfectionist person, I like and want things to work correctly as planned, and is something that I like to demostrate with my own proyects that I worked on my school here in Mexico. 
 I came here to express not only the ideas that I have been thinking since the last 3 years new ideas every time I have known new topics about my career, for example AIs, algorithms, mathematics, cybersecurity, networking, videogames, IoT and much more new topics.
 
