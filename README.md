@@ -36,8 +36,8 @@ All my achievements during academic time consist on:
 
 - A [plataformer videogame](https://marcelo91216.itch.io/little-man-adventure-web-version?secret=Ifa1PVyYlTtPJZBmjjakPa5uRys) made in the game engine Unity, this one doesn't come from a class, ratherless from my own ideas to make during summer 2022.
   - [Demostration video link](https://www.youtube.com/embed/NiU8EkUTi5k)
- <iframe width="560" height="315" src="https://www.youtube.com/embed/NiU8EkUTi5k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
- <iframe frameborder="0" src="https://itch.io/embed-upload/6976926?color=285369" allowfullscreen="" width="1000" height="720"><a href="https://marcelo91216.itch.io/little-man-adventure-web-version">Play Little Man Adventure (Web Version) on itch.io</a></iframe>
+ <!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/NiU8EkUTi5k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> -->
+ <!-- <iframe frameborder="0" src="https://itch.io/embed-upload/6976926?color=285369" allowfullscreen="" width="1000" height="720"><a href="https://marcelo91216.itch.io/little-man-adventure-web-version">Play Little Man Adventure (Web Version) on itch.io</a></iframe> -->
 
 - A [management program made for the Wellness Center](https://github.com/5100-chap/Wellness-SRAD.git), a place of my own school for sport clases. This software was created with the purpose of helping automatizing some tasks that the administrators were tired by doing manually.
 
@@ -84,10 +84,11 @@ I can point some of these lessons acquired:
   - Creation of functional requirements
   - Designing of user histories
   - Documentation of quality, SRS, SDD, calendar and WBS
+  - Diferent types of patterns in software design
+    - Structural, creational and behavioral
 - Databases
   - SQL
   - SQL Server
-  - POO diagrams
 
 ## Cool Marcelo Facts
 * My favorite languages in a top are:
@@ -99,3 +100,4 @@ I can point some of these lessons acquired:
   * Go
   * C#
 * Before entering the university, I didn't know any about this topics, but I was so curious about how computers work and understand them.
+* 
