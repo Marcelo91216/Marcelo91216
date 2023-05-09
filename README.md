@@ -12,11 +12,11 @@ I came here to express not only the ideas that I have been thinking since the la
 I have planned from now on to start trying to get some reputation around these career and gain some new experience finally in a real job. Becuase I have the dream of setting up my own tiny company of software development. ¿Development of what? Of every kind of software in general, but also getting more focus in videogames, desktop and mobile aplications, IoT and Web.
 
 ## My values
-###My values consist on:
-####- Team work
-####- Quality
-####- Endeavor
-####- Persistance
+### My values consist on:
+#### - Team work
+#### - Quality
+#### - Endeavor
+#### - Persistance
 
 ## Interesting topics for me
 The ideas that I have been thinking to start new projects are:
@@ -36,8 +36,8 @@ All my achievements during academic time consist on:
 
 - A [plataformer videogame](https://marcelo91216.itch.io/little-man-adventure-web-version?secret=Ifa1PVyYlTtPJZBmjjakPa5uRys) made in the game engine Unity, this one doesn't come from a class, ratherless from my own ideas to make during summer 2022.
   - [Demostration video link](https://www.youtube.com/embed/NiU8EkUTi5k)
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NiU8EkUTi5k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-<iframe frameborder="0" src="https://itch.io/embed-upload/6976926?color=285369" allowfullscreen="" width="1000" height="720"><a href="https://marcelo91216.itch.io/little-man-adventure-web-version">Play Little Man Adventure (Web Version) on itch.io</a></iframe>
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/NiU8EkUTi5k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+ <iframe frameborder="0" src="https://itch.io/embed-upload/6976926?color=285369" allowfullscreen="" width="1000" height="720"><a href="https://marcelo91216.itch.io/little-man-adventure-web-version">Play Little Man Adventure (Web Version) on itch.io</a></iframe>
 
 - A [management program made for the Wellness Center](https://github.com/5100-chap/Wellness-SRAD.git), a place of my own school for sport clases. This software was created with the purpose of helping automatizing some tasks that the administrators were tired by doing manually.
 
