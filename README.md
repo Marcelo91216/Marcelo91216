@@ -118,3 +118,6 @@ I can point some of these lessons acquired:
 * My first program I have ever made in my life is a little game of movement made in Scratch, a little software to program animations and games with blocks.  <img src="./img/scratch.png" width="35px"></img>
 * My favorite programming language is C++!!
 <img src="./img/cpluspluslogo.png" width="60px"></img>
+* My inspiration in the world of videogames is Toby Fox, a videogame programmer who once started in 2008 creating a modification of the game Earthbound, now is in develop of the 3rd chapter of his recent game Deltarune.
+<img src="./img/sans.gif" width="50px"></img>
+<img src="./img/TobyFox.webp" width="80px"></img>
