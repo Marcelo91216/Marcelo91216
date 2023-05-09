@@ -116,3 +116,5 @@ I can point some of these lessons acquired:
   * C#
 * Before entering the university, I didn't know any about this topics, but I was so curious about how computers work and understand them.
 * My first program I have ever made in my life is a little game of movement made in Scratch, a little software to program animations and games with blocks.  <img src="./img/scratch.png" width="35px"></img>
+* My favorite programming language is C++!!
+<img src="./img/cpluspluslogo.png" width="60px"></img>
