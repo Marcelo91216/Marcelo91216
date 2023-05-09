@@ -47,6 +47,10 @@ All my achievements during academic time consist on:
 
 - A [scanner of transmission codes that find for malicious code](https://github.com/Marcelo91216/llamadoActInt1.git), made for the class of advanced algorithms, it scans the texts that are transmissions with malicious data in them, the purpose of the program is to find them and count the possible other malicious data.
 
+- A [web page connected to a Unity game](https://github.com/PabloGZ9/TC2005B_Crusaders.git), using for the first time Node JS, I manage the part of the Back-End and database using mysql. The game consists in a little "click cookie" game, were as you click the character you gain points. Our client was CEMEX, for the purpose to helping improve the motivation of the workers to continue working. We connected the characters characteristics to the database of each user, also the progress of each one.
+
+- A [traffic car simulation using Agent Systems](https://github.com/alex-moons/TC2008B.git). Here we design in Unity half of the roadway of our university to simulate a perfect traffic using the power of multiagent systems, were each car acts independently of each other and organizing to make a secure and flexible traffic. We use a Python file connected by sockets to the Unity program to make the calculations, and Unity just modelates the results in 3D car models. 
+
 ## My gained skills
 I have gained during all this experience many lessons, topics, ideas and new doors that were opened for me to new oportunities that I can reach with my previews knowledges.
 I can point some of these lessons acquired:
