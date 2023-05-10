@@ -6,7 +6,7 @@ Software engineer and programmer from Tecnológico de Monterrey Marcelo Eduardo 
 
 <img src="./img/mi_perfil.jpg" width="250px"></img>
 
-I'm am perfectionist person, I like and want things to work correctly as planned, and is something that I like to demostrate with my own proyects that I worked on my school here in Latin America, Mexico. 
+I'm am a person who wants things work correctly as planned, and is something that I like to demostrate with my own proyects that I worked on my school here in Latin America, Mexico. 
 I came here to express not only the ideas that I have been thinking since the last 3 years new ideas every time I have known new topics about my career, for example AIs, algorithms, mathematics, cybersecurity, networking, videogames, IoT and much more new topics.
 
 I have planned from now on to start trying to get some reputation around these career and gain some new experience finally in a real job. Becuase I have the dream of setting up my own tiny company of software development. ¿Development of what? Of every kind of software in general, but also getting more focus in videogames, desktop and mobile aplications, IoT and Web.
@@ -104,6 +104,7 @@ I can point some of these lessons acquired:
   - Java
   - Matlab
   - Rust
+  - R
 
 ## Cool Marcelo Facts
 * My favorite languages in a top are: 
